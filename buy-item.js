@@ -29,8 +29,7 @@ const buyItemTransaction = {
 
 const isBalanceEnough = getAddressBalance(buyerAddress) >= itemPrice;
 
-if(isBalanceEnough) // throw new Error("Balance too low");
+if(isBalanceEnough)
 {
-
 writeTransactions([...currentTransactions, buyItemTransaction]);
 }

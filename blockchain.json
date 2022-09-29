@@ -308,5 +308,178 @@
     "previousHash": "003f8954f154462a725fa359688f81cae3cefe244486233de07313967af7ece9",
     "nonce": 31,
     "transactions": []
+  },
+  {
+    "hash": "00bf387dd096d920dcc93da3578eb099240175b621e86c152c2f75c029fe10f0",
+    "previousHash": "0096452f337a59f8a71bd75e947aa7fb34be3ab59d410dcaf6c3af3be8424e85",
+    "nonce": 341,
+    "transactions": [
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04ddcdd30298be9d93353323c9cc2c8d602a452da8c323cce1277ac5bd77f2cc1b22a1711a94f7d51a12967a1dc8677144",
+        "itemBought": "spray"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04beaaa8353c2596406d21fa18df06fab33872edc2d8a7d8257fa2f74703ceabbeef585c487d1fd0dd7818c36f9d2b670c",
+        "itemBought": "pose"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "044e2d2a4b10066b64a3b916e0835d2a2b55b0ea4f86852b9e5ffa3172c6998527054b65352d076a6dd6c06fa3e3258957",
+        "itemBought": "icon"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04ea1041c13e401941996c24246fe6ffa679ce6744301d9fc38b25d9a1a893c94f766694d7a66e96ba26ee34155b2e782f",
+        "itemBought": "skin"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04b33d9f2bdfcd69df0e30edbd3a75d848e7e9cb39f396395117431edcb9094e1b3d561921d91b89aadb0c2e645fcfd8f5",
+        "itemBought": "pose"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04d59f4b6bde9a7fefc16e3bdfacbb1f9ad439ca269130e1eb060b9ffc43ef59235e709ae088c586dae7671d88d767f0ea",
+        "itemBought": "spray"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "0420df07181e99569e2074bfd1a3b29bcfd2d1033f66657d002bcb032903de92c550027832b3ab087a6f32a88f647516a0",
+        "itemBought": "spray"
+      }
+    ]
+  },
+  {
+    "hash": "005e485b6e9e9319a1fa478321791f87cf6cd1b47d32a60860e86cb86aa9a09c",
+    "previousHash": "00bf387dd096d920dcc93da3578eb099240175b621e86c152c2f75c029fe10f0",
+    "nonce": 558,
+    "transactions": [
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04ddcdd30298be9d93353323c9cc2c8d602a452da8c323cce1277ac5bd77f2cc1b22a1711a94f7d51a12967a1dc8677144",
+        "itemBought": "skin"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04beaaa8353c2596406d21fa18df06fab33872edc2d8a7d8257fa2f74703ceabbeef585c487d1fd0dd7818c36f9d2b670c",
+        "itemBought": "emote"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "044e2d2a4b10066b64a3b916e0835d2a2b55b0ea4f86852b9e5ffa3172c6998527054b65352d076a6dd6c06fa3e3258957",
+        "itemBought": "emote"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04ea1041c13e401941996c24246fe6ffa679ce6744301d9fc38b25d9a1a893c94f766694d7a66e96ba26ee34155b2e782f",
+        "itemBought": "spray"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04b33d9f2bdfcd69df0e30edbd3a75d848e7e9cb39f396395117431edcb9094e1b3d561921d91b89aadb0c2e645fcfd8f5",
+        "itemBought": "spray"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "04d59f4b6bde9a7fefc16e3bdfacbb1f9ad439ca269130e1eb060b9ffc43ef59235e709ae088c586dae7671d88d767f0ea",
+        "itemBought": "icon"
+      },
+      {
+        "sellerAddress": null,
+        "buyerAddress": "0420df07181e99569e2074bfd1a3b29bcfd2d1033f66657d002bcb032903de92c550027832b3ab087a6f32a88f647516a0",
+        "itemBought": "spray"
+      }
+    ]
+  },
+  {
+    "hash": "00aaa231b366a97206543136eec67ed17a84cbc013aab7bd2e4c414ca2e89405",
+    "previousHash": "005e485b6e9e9319a1fa478321791f87cf6cd1b47d32a60860e86cb86aa9a09c",
+    "nonce": 477,
+    "transactions": [
+      {
+        "buyerAddress": null,
+        "sellerAddress": "0411fb8b4d14eb0e3af67754a412132ac06ad8964f1935eb52215623751ff823994d2b08c0e43b8d64c48c1669479e356a",
+        "price": 40
+      },
+      {
+        "buyerAddress": "0411fb8b4d14eb0e3af67754a412132ac06ad8964f1935eb52215623751ff823994d2b08c0e43b8d64c48c1669479e356a",
+        "sellerAddress": null,
+        "price": 10,
+        "itemBought": "icon",
+        "signature": "3035021900c0391ebdc5028d53f4875dead008b3d55e7a6aada45810b302185725278588ca9b19dd9738a0faa62f287b1f1f258e39d2c9"
+      },
+      {
+        "buyerAddress": "0411fb8b4d14eb0e3af67754a412132ac06ad8964f1935eb52215623751ff823994d2b08c0e43b8d64c48c1669479e356a",
+        "sellerAddress": null,
+        "price": 15,
+        "itemBought": "spray",
+        "signature": "3036021900ad08226a0c7179c5f39e1d8d8aaec91b790e44b58c5469f4021900ed0a02c0ac11d1b22b6db7a4e57d772f5b4ecea55130b82f"
+      },
+      {
+        "buyerAddress": "0411fb8b4d14eb0e3af67754a412132ac06ad8964f1935eb52215623751ff823994d2b08c0e43b8d64c48c1669479e356a",
+        "sellerAddress": null,
+        "price": 15,
+        "itemBought": "spray",
+        "signature": "3036021900ad08226a0c7179c5f39e1d8d8aaec91b790e44b58c5469f4021900ed0a02c0ac11d1b22b6db7a4e57d772f5b4ecea55130b82f"
+      }
+    ]
+  },
+  {
+    "hash": "005e9d6147b688fc644dd75c88eab130ee6460710824b245eca3234afdd1f4a2",
+    "previousHash": "00aaa231b366a97206543136eec67ed17a84cbc013aab7bd2e4c414ca2e89405",
+    "nonce": 505,
+    "transactions": [
+      {
+        "buyerAddress": null,
+        "sellerAddress": "044e2d2a4b10066b64a3b916e0835d2a2b55b0ea4f86852b9e5ffa3172c6998527054b65352d076a6dd6c06fa3e3258957",
+        "price": 10,
+        "itemSold": "spray",
+        "signature": "30360219009bdee42b73b91569d7d0e7e3df745fe89581fb33b89f54fe021900fa9f93d5d2fa48759aa4f1c8d43117812ca5d4d82fa67836"
+      },
+      {
+        "buyerAddress": null,
+        "sellerAddress": "044e2d2a4b10066b64a3b916e0835d2a2b55b0ea4f86852b9e5ffa3172c6998527054b65352d076a6dd6c06fa3e3258957",
+        "price": 5,
+        "itemSold": "icon",
+        "signature": "30360219009bdee42b73b91569d7d0e7e3df745fe89581fb33b89f54fe021900fa9f93d5d2fa48759aa4f1c8d43117812ca5d4d82fa67836"
+      },
+      {
+        "buyerAddress": null,
+        "sellerAddress": "044e2d2a4b10066b64a3b916e0835d2a2b55b0ea4f86852b9e5ffa3172c6998527054b65352d076a6dd6c06fa3e3258957",
+        "price": 20,
+        "itemSold": "emote",
+        "signature": "30360219009bdee42b73b91569d7d0e7e3df745fe89581fb33b89f54fe021900fa9f93d5d2fa48759aa4f1c8d43117812ca5d4d82fa67836"
+      },
+      {
+        "buyerAddress": null,
+        "sellerAddress": "044e2d2a4b10066b64a3b916e0835d2a2b55b0ea4f86852b9e5ffa3172c6998527054b65352d076a6dd6c06fa3e3258957",
+        "price": 20,
+        "itemSold": "emote",
+        "signature": "30360219009bdee42b73b91569d7d0e7e3df745fe89581fb33b89f54fe021900fa9f93d5d2fa48759aa4f1c8d43117812ca5d4d82fa67836"
+      },
+      {
+        "buyerAddress": null,
+        "sellerAddress": "044e2d2a4b10066b64a3b916e0835d2a2b55b0ea4f86852b9e5ffa3172c6998527054b65352d076a6dd6c06fa3e3258957",
+        "price": 10,
+        "itemSold": "spray",
+        "signature": "30360219009bdee42b73b91569d7d0e7e3df745fe89581fb33b89f54fe021900fa9f93d5d2fa48759aa4f1c8d43117812ca5d4d82fa67836"
+      },
+      {
+        "buyerAddress": null,
+        "sellerAddress": "04ea1041c13e401941996c24246fe6ffa679ce6744301d9fc38b25d9a1a893c94f766694d7a66e96ba26ee34155b2e782f",
+        "price": 10,
+        "itemSold": "spray",
+        "signature": "303502181b76a29144cb4f85ebe382694b7b733fb35d8b2acf5d6a6f021900cabc3e5345f94933af123039f70fa73a18a503571fbc282c"
+      },
+      {
+        "buyerAddress": null,
+        "sellerAddress": "04ea1041c13e401941996c24246fe6ffa679ce6744301d9fc38b25d9a1a893c94f766694d7a66e96ba26ee34155b2e782f",
+        "price": 10,
+        "itemSold": "spray",
+        "signature": "303502181b76a29144cb4f85ebe382694b7b733fb35d8b2acf5d6a6f021900cabc3e5345f94933af123039f70fa73a18a503571fbc282c"
+      }
+    ]
   }
 ]
